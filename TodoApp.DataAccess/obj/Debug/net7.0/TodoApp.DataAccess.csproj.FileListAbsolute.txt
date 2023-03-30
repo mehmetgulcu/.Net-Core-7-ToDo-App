@@ -1,0 +1,17 @@
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.DataAccess.deps.json
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.DataAccess.runtimeconfig.json
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.DataAccess.dll
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.DataAccess.pdb
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.Entities.dll
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.Entities.pdb
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.csproj.AssemblyReference.cache
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.AssemblyInfoInputs.cache
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.AssemblyInfo.cs
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.csproj.CopyComplete
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.dll
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\refint\TodoApp.DataAccess.dll
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.pdb
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.genruntimeconfig.cache
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\ref\TodoApp.DataAccess.dll

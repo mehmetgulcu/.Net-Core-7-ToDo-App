@@ -1,0 +1,12 @@
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\bin\Debug\net7.0\TodoApp.Dtos.deps.json
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\bin\Debug\net7.0\TodoApp.Dtos.dll
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\bin\Debug\net7.0\TodoApp.Dtos.pdb
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\obj\Debug\net7.0\TodoApp.Dtos.csproj.AssemblyReference.cache
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\obj\Debug\net7.0\TodoApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\obj\Debug\net7.0\TodoApp.Dtos.AssemblyInfoInputs.cache
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\obj\Debug\net7.0\TodoApp.Dtos.AssemblyInfo.cs
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\obj\Debug\net7.0\TodoApp.Dtos.csproj.CoreCompileInputs.cache
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\obj\Debug\net7.0\TodoApp.Dtos.dll
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\obj\Debug\net7.0\refint\TodoApp.Dtos.dll
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\obj\Debug\net7.0\TodoApp.Dtos.pdb
+D:\MyCodes\Projects\ProgramingLanguagesProjects\C# Projects\.Net-Core-Projects\TodoApp\TodoApp.Dtos\obj\Debug\net7.0\ref\TodoApp.Dtos.dll
